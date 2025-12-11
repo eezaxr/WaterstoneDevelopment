@@ -1,0 +1,404 @@
+{
+  "fun_facts": [
+    {
+      "id": 1,
+      "fact": "A group of flamingos is called a 'flamboyance'."
+    },
+    {
+      "id": 2,
+      "fact": "It takes a photon up to 40,000 years to travel from the Sun's core to its surface, but only 8 minutes to travel the rest of the way to Earth."
+    },
+    {
+      "id": 3,
+      "fact": "Cleopatra lived closer in time to the invention of the iPhone than to the building of the Great Pyramid of Giza."
+    },
+    {
+      "id": 4,
+      "fact": "A snail can sleep for three years."
+    },
+    {
+      "id": 5,
+      "fact": "The original name for the search engine Google was 'Backrub'."
+    },
+    {
+      "id": 6,
+      "fact": "The total length of all the blood vessels in the human body is over 60,000 miles."
+    },
+    {
+      "id": 7,
+      "fact": "Cranberries are bounced to determine their freshness; a good one will bounce 4 inches high."
+    },
+    {
+      "id": 8,
+      "fact": "There are more trees on Earth than stars in the Milky Way galaxy."
+    },
+    {
+      "id": 9,
+      "fact": "The tongue of a blue whale weighs as much as a small car."
+    },
+    {
+      "id": 10,
+      "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are still edible."
+    },
+    {
+      "id": 11,
+      "fact": "During the Victorian era, it was common to take photos of deceased loved ones (post-mortem photography)."
+    },
+    {
+      "id": 12,
+      "fact": "The only part of the body that has no blood supply is the cornea of the eye."
+    },
+    {
+      "id": 13,
+      "fact": "Nintendo was founded in 1889, originally to produce handmade playing cards."
+    },
+    {
+      "id": 14,
+      "fact": "Octopuses have three hearts."
+    },
+    {
+      "id": 15,
+      "fact": "A cloud can weigh over a million pounds."
+    },
+    {
+      "id": 16,
+      "fact": "Istanbul is the only city in the world located on two continents (Europe and Asia)."
+    },
+    {
+      "id": 17,
+      "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 to 45 minutes."
+    },
+    {
+      "id": 18,
+      "fact": "The world's most popular vegetable is the tomato, which is technically a fruit."
+    },
+    {
+      "id": 19,
+      "fact": "The average person walks the equivalent of five times around the Earth in a lifetime."
+    },
+    {
+      "id": 20,
+      "fact": "Baby kangaroos are called 'joeys'."
+    },
+    {
+      "id": 21,
+      "fact": "The name 'Lego' is derived from the Danish phrase 'leg godt', which means 'play well'."
+    },
+    {
+      "id": 22,
+      "fact": "Sound travels about 4.3 times faster in water than in air."
+    },
+    {
+      "id": 23,
+      "fact": "On Venus, a day is longer than a year."
+    },
+    {
+      "id": 24,
+      "fact": "The only mammal capable of sustained flight is the bat."
+    },
+    {
+      "id": 25,
+      "fact": "The Statue of Liberty was originally intended for Egypt."
+    },
+    {
+      "id": 26,
+      "fact": "The tongue is the only muscle in the human body that is attached at only one end."
+    },
+    {
+      "id": 27,
+      "fact": "In ancient Greece, carrots were originally purple, not orange."
+    },
+    {
+      "id": 28,
+      "fact": "A tarantula can survive for more than two years without food."
+    },
+    {
+      "id": 29,
+      "fact": "The color orange was named after the fruit, not the other way around."
+    },
+    {
+      "id": 30,
+      "fact": "The first computer mouse was invented in the 1960s and was made of wood."
+    },
+    {
+      "id": 31,
+      "fact": "Russia has a surface area larger than the planet Pluto."
+    },
+    {
+      "id": 32,
+      "fact": "Cows have 'best friends' and get stressed when separated from them."
+    },
+    {
+      "id": 33,
+      "fact": "The longest time between two people being awarded the Nobel Prize is 40 years."
+    },
+    {
+      "id": 34,
+      "fact": "Humans shed about 40 pounds of skin in a lifetime."
+    },
+    {
+      "id": 35,
+      "fact": "An elephant's pregnancy lasts for 22 months."
+    },
+    {
+      "id": 36,
+      "fact": "The smell of freshly cut grass is actually a plant distress call."
+    },
+    {
+      "id": 37,
+      "fact": "Ketchup was sold as a medicine in the 1830s."
+    },
+    {
+      "id": 38,
+      "fact": "There is a planet made of diamonds, about twice the size of Earth, called 55 Cancri e."
+    },
+    {
+      "id": 39,
+      "fact": "Butterflies taste with their feet."
+    },
+    {
+      "id": 40,
+      "fact": "The highest-grossing film of all time (unadjusted for inflation) is 'Avatar'."
+    },
+    {
+      "id": 41,
+      "fact": "The microwave oven was invented after a scientist walked past a radar tube and a chocolate bar melted in his pocket."
+    },
+    {
+      "id": 42,
+      "fact": "Your stomach acid is strong enough to dissolve razor blades."
+    },
+    {
+      "id": 43,
+      "fact": "A giraffe's neck is too short to reach the ground, so it must awkwardly spread its front legs to drink water."
+    },
+    {
+      "id": 44,
+      "fact": "One single strand of spaghetti is called a 'spaghetto'."
+    },
+    {
+      "id": 45,
+      "fact": "Mount Everest is not the tallest mountain. That title belongs to Mauna Kea in Hawaii, when measured from its base on the ocean floor."
+    },
+    {
+      "id": 46,
+      "fact": "Koalas have fingerprints almost indistinguishable from human ones."
+    },
+    {
+      "id": 47,
+      "fact": "Apples, peaches, and raspberries are all members of the rose family."
+    },
+    {
+      "id": 48,
+      "fact": "Footprints left on the Moon will remain there for 100 million years."
+    },
+    {
+      "id": 49,
+      "fact": "A group of crows is called a 'murder'."
+    },
+    {
+      "id": 50,
+      "fact": "The 'Save' icon on Microsoft Word (a floppy disk) is almost entirely obsolete."
+    },
+    {
+      "id": 51,
+      "fact": "The ancient Romans used human urine as mouthwash."
+    },
+    {
+      "id": 52,
+      "fact": "Your nose and ears continue to grow throughout your entire life."
+    },
+    {
+      "id": 53,
+      "fact": "The puffin's beak changes color during the year."
+    },
+    {
+      "id": 54,
+      "fact": "If you could fold a piece of paper 42 times, it would reach the Moon."
+    },
+    {
+      "id": 55,
+      "fact": "Pistachios are actually fruit, and they are related to the cashew."
+    },
+    {
+      "id": 56,
+      "fact": "A rhinoceros horn is made of keratin, the same protein that makes up human hair and fingernails."
+    },
+    {
+      "id": 57,
+      "fact": "California's state animal, the grizzly bear, has been extinct in California since 1924."
+    },
+    {
+      "id": 58,
+      "fact": "Mickey Mouse's original name was 'Mortimer Mouse'."
+    },
+    {
+      "id": 59,
+      "fact": "Polar bears are nearly undetectable by thermal cameras."
+    },
+    {
+      "id": 60,
+      "fact": "The Earth is not a perfect sphere; it's an oblate spheroid."
+    },
+    {
+      "id": 61,
+      "fact": "In ancient Egypt, pillows were often made of stone."
+    },
+    {
+      "id": 62,
+      "fact": "The average person forgets 90% of their dreams."
+    },
+    {
+      "id": 63,
+      "fact": "Ostrich eyes are bigger than their brains."
+    },
+    {
+      "id": 64,
+      "fact": "The most expensive spice in the world is saffron."
+    },
+    {
+      "id": 65,
+      "fact": "A 'jiffy' is an actual unit of time: 1/100th of a second."
+    },
+    {
+      "id": 66,
+      "fact": "Wombat poop is cube-shaped."
+    },
+    {
+      "id": 67,
+      "fact": "The inventor of the Pringles can, Fredric Baur, was cremated and had his ashes buried in a Pringles can."
+    },
+    {
+      "id": 68,
+      "fact": "If you were to drill a tunnel straight through the Earth and jump in, it would take you about 42 minutes to fall to the other side."
+    },
+    {
+      "id": 69,
+      "fact": "A group of owls is called a 'parliament'."
+    },
+    {
+      "id": 70,
+      "fact": "The Hawaiian alphabet has only 13 letters."
+    },
+    {
+      "id": 71,
+      "fact": "The national animal of Scotland is the unicorn."
+    },
+    {
+      "id": 72,
+      "fact": "More time travelers were registered in the 20th century than any other."
+    },
+    {
+      "id": 73,
+      "fact": "The world's largest rubber band ball weighs over 9,000 pounds."
+    },
+    {
+      "id": 74,
+      "fact": "A cockroach can live for several weeks without its head."
+    },
+    {
+      "id": 75,
+      "fact": "The first time the word 'OMG' was used in a letter was in 1917, written to Winston Churchill."
+    },
+    {
+      "id": 76,
+      "fact": "Tears, snot, and earwax all contain a type of antibody that works to fight off pathogens."
+    },
+    {
+      "id": 77,
+      "fact": "There is a species of jellyfish that is biologically immortal; it can revert to its juvenile stage."
+    },
+    {
+      "id": 78,
+      "fact": "The total weight of all the ants on Earth is estimated to be roughly the same as the total weight of all humans on Earth."
+    },
+    {
+      "id": 79,
+      "fact": "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu in New Zealand."
+    },
+    {
+      "id": 80,
+      "fact": "The word 'typewriter' is the longest word that can be typed using only one row of the standard QWERTY keyboard."
+    },
+    {
+      "id": 81,
+      "fact": "The Earth is the only planet not named after a mythological god or goddess."
+    },
+    {
+      "id": 82,
+      "fact": "Sharks can live longer than 100 years."
+    },
+    {
+      "id": 83,
+      "fact": "The fear of long words is called 'hippopotomonstrosesquippedaliophobia'."
+    },
+    {
+      "id": 84,
+      "fact": "Dolphins sleep with one eye open."
+    },
+    {
+      "id": 85,
+      "fact": "The shortest sentence in the English language is 'I am'."
+    },
+    {
+      "id": 86,
+      "fact": "A bowling pin is called a 'pin' but it is technically a 'bottle'."
+    },
+    {
+      "id": 87,
+      "fact": "The smell of rain (petrichor) is caused by a bacteria called actinobacteria."
+    },
+    {
+      "id": 88,
+      "fact": "Humans share 50% of their DNA with bananas."
+    },
+    {
+      "id": 89,
+      "fact": "In Switzerland, it is illegal to own just one guinea pig, as they are social animals and need companionship."
+    },
+    {
+      "id": 90,
+      "fact": "The inventor of Vaseline ate a spoonful of it every day until he was 96."
+    },
+    {
+      "id": 91,
+      "fact": "There is a town in Norway called 'Hell' that freezes over in winter."
+    },
+    {
+      "id": 92,
+      "fact": "The average person spends six months of their life waiting for red lights to change."
+    },
+    {
+      "id": 93,
+      "fact": "The human brain generates about 12 to 25 watts of power—enough to light a low-wattage LED bulb."
+    },
+    {
+      "id": 94,
+      "fact": "Cows produce significantly more milk when they listen to classical music."
+    },
+    {
+      "id": 95,
+      "fact": "The strongest muscle in the human body is the jaw muscle (masseter)."
+    },
+    {
+      "id": 96,
+      "fact": "The first object in space was a V-2 rocket carrying fruit flies."
+    },
+    {
+      "id": 97,
+      "fact": "The total energy released by a magnitude 8 earthquake is equivalent to the energy of about six million tons of TNT."
+    },
+    {
+      "id": 98,
+      "fact": "The original name for Monopoly's 'Marvin Gardens' was 'Marven Gardens', a misspelling that was never corrected."
+    },
+    {
+      "id": 99,
+      "fact": "The unicorn is the only mythical creature to be the national animal of a country (Scotland)."
+    },
+    {
+      "id": 100,
+      "fact": "If you are having trouble sleeping, try repeatedly spelling out the word 'sassafras' in your head—it often works."
+    }
+  ]
+}
