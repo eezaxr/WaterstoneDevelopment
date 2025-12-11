@@ -7,7 +7,9 @@ from typing import Optional, Dict
 class TimetableHandler:
     def __init__(self, bot):
         self.bot = bot
+        
         self.divider_image = "https://media.discordapp.net/attachments/1353870922712354900/1437239861802303628/WSALine.png?ex=6921aead&is=69205d2d&hm=72ec192652bcd007b12ecaf19cc15333e92e8fbb237271e767966df4fa015afb&=&format=webp&quality=lossless"
+        
         self.timetable_structure = {
             "Period 1": ["Year 7", "Year 8", "Reflection", "Pastoral", "Reception"],
             "Period 2": ["Year 7", "Year 8", "Reflection", "Pastoral", "Reception"],
