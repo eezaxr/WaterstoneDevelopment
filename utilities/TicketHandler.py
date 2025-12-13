@@ -56,12 +56,13 @@ async def create_ticket_channel(guild, user, reason):
                     embed_links=True
                 )
         
-        # Create channel
+        # Create channel with user ID in topic for tracking
         channel_name = f"ticket-{user.name.lower()}"
         channel = await guild.create_text_channel(
             name=channel_name,
             category=category,
             overwrites=overwrites,
+            topic=f"<@{user.id}>",  # Store user ID in topic for reliable tracking
             reason=f"Ticket created by {user} - {reason}"
         )
         
