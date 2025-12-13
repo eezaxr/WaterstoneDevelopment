@@ -12,7 +12,7 @@ class SessionCommands(commands.Cog):
     # Create a command group for session commands
     session_group = app_commands.Group(name="session", description="Session management commands")
     
-    @session_group.command(name="schedule", description="Schedule a training session")
+    @session_group.command(name="schedule", description="Schedule a school session")
     @app_commands.describe(
         date="Date in DD/MM/YYYY format (e.g., 25/12/2024)",
         start_time="Start time in HH:MM format (24-hour, e.g., 14:30)",
@@ -21,7 +21,7 @@ class SessionCommands(commands.Cog):
     )
     @app_commands.checks.has_role(int(config.PERMITTED_ROLE_ID))
     async def session_schedule(self, interaction: discord.Interaction, date: str, start_time: str, end_time: str, title: str = None):
-        """Schedule a new training session"""
+        """Schedule a new school session"""
         
         # Validate date and time format
         try:
@@ -80,7 +80,7 @@ class SessionCommands(commands.Cog):
             
             embed = discord.Embed(
                 title="Session Scheduled",
-                description=f"You have successfully scheduled a session with the following information:\n\n**Title**: {title or 'Waterstone Training Session'}\n**Host**: {interaction.user.mention}\n**Start Time**: <t:{start_timestamp}:F>\n**End Time**: <t:{end_timestamp}:F>\n\nA server event has been created and the session will start automatically at the scheduled time!",
+                description=f"You have successfully scheduled a session with the following information:\n\n**Title**: {title or 'Waterstone School Session'}\n**Host**: {interaction.user.mention}\n**Start Time**: <t:{start_timestamp}:F>\n**End Time**: <t:{end_timestamp}:F>\n\nA server event has been created and the session will start automatically at the scheduled time!",
                 color=discord.Color.green()
             )
             embed.set_image(url="https://media.discordapp.net/attachments/1353870922712354900/1437239861802303628/WSALine.png?ex=69205d2d&is=691f0bad&hm=263131bcaa38e47255cc8111dd97c0fff3df66e81296d25031d15e45ae1daeda&=&format=webp&quality=lossless")
@@ -93,10 +93,10 @@ class SessionCommands(commands.Cog):
             )
             await interaction.response.send_message(embed=embed, ephemeral=True)
     
-    @session_group.command(name="cancel", description="Cancel the current training session")
+    @session_group.command(name="cancel", description="Cancel the current School session")
     @app_commands.checks.has_role(int(config.PERMITTED_ROLE_ID))
     async def session_cancel(self, interaction: discord.Interaction):
-        """Cancel the current training session"""
+        """Cancel the current School session"""
         
         # Check if there's an active session
         if not self.session_handler.has_active_session(interaction.guild.id):
